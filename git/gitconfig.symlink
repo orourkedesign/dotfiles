@@ -47,7 +47,7 @@
 [core]
   attributesfile = ~/.gitattributes
   excludesfile = ~/.gitignore
-  editor = mvim -f --nomru
+  editor = subl --wait --new-window
   autocrlf = input
   safecrlf = warn
 [gui]
