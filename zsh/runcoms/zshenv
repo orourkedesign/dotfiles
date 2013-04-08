@@ -18,8 +18,8 @@ fi
 #
 
 if [[ "$OSTYPE" == darwin* ]]; then
-  export EDITOR='mvim'
-  export VISUAL='mvim'
+  export EDITOR='subl'
+  export VISUAL='subl'
 else
   export EDITOR='vim'
   export VISUAL='vim'
