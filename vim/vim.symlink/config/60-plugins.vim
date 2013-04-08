@@ -14,8 +14,8 @@
 
 " Powerline {{{
 python <<PYTHON
-import sys; sys.path.append("/Users/jcf/.local/lib/python2.7/site-packages")
-from powerline.bindings.vim import source_plugin; source_plugin()
+# import sys; sys.path.append("/Users/gearoidorourke/Library/Python/2.7/lib/python/site-packages")
+# from powerline.bindings.vim import source_plugin; source_plugin()
 PYTHON
 
   set fillchars+=stl:\ ,stlnc:\
